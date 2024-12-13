@@ -1,0 +1,5 @@
+{
+    "question_decompose":"A complex multi-hop question can be solved step by step by breaking down it into simpler questions. The following are some question decompose examples, where #N represents the answer to question N. If the question is straightforward without needing decomposition, repeat the question itself.",
+    "question_slove":"Answer the question based on the given passages. Directly output the answer without any redundant words.\nGiven passages:",
+    "question_renewal":"Given Question-Answer pairs, if the question Q can be answered based on the information gained from these pairs, provide the final answer. Otherwise, utilize existing information to rephrase the initial question Q into a simpler equivalent question that contains more known information. Here are examples:"
+}
